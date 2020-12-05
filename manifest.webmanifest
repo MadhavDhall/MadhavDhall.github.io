@@ -25,7 +25,7 @@
         }
     ],
     "start_url": "/",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#0b065e",
     "theme_color": "#0b065e",
     "offline_enabled": true
