@@ -85,6 +85,3 @@ async function getApi(d, m, custom) {
 };
 
 getApi(fullDate, monthNum);
-
-function addtohome() {setTimeout(function(){ addToHomeScreen() }, 2500);}
-addtohome();
