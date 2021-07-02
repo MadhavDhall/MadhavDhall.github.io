@@ -1,7 +1,7 @@
-©Copright 2020 Madhav Dhall
+©Copright 2020 Maddhav Dhall
 
-**Madhav Dhall Daily Events**
+**Maddhav Dhall Daily Events**
 
-Get All days important days/ events. This Website is made by **Madhav Dhall**, a Ludhiana Based *Full Stack Developer*.
+Get All days important days/ events. This Website is made by **Maddhav Dhall**, a Ludhiana Based *Full Stack Developer*.
 
 Website Link: https://madhavdhall.github.io/
